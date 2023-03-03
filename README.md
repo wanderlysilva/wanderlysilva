@@ -1,4 +1,4 @@
-###  Olá eu sou o Wanderly Silva 👋🏼, este é meu repositório público de studo 🚀.
+###  Olá eu sou o Wanderly Silva 👋🏼, este é meu repositório público de estudo 🚀.
 
 
 ![Wanderly GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanderlysilva&show_icons=true&theme=tokyonight)
