@@ -19,13 +19,10 @@ UDEMY - Banco de Dados SQL do Zero ao Avançado + Projetos Reais 2023
 
 👨‍💼 Trabalho atual: Atualmente trabalho como Analista de Suporte na Prefeitura de Contagem MG.
 
-🌴 No meu tempo livre: Assisto animes, leio mangás e jogo video game principalmente WarZone 2 🤣
+🌴 No meu tempo livre: Assisto animes, leio mangás e jogo video game principalmente WarZone2 🤣
 
 
 ---
-
-
-
 ### 💻Tecnologias de estudo!
 
 #### Front End
