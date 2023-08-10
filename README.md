@@ -22,7 +22,7 @@ UDEMY - Banco de Dados SQL do Zero ao Avançado + Projetos Reais 2023
 🌴 No meu tempo livre: Assisto animes, leio mangás e jogo video game principalmente WarZone 2 🤣
 
 
-___
+---
 
 
 
