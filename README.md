@@ -26,7 +26,7 @@ ___
 
 
 
-### Tecnologias de estudo! 💻
+### 💻Tecnologias de estudo!
 
 #### Front End
 
