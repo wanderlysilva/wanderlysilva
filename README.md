@@ -2,7 +2,7 @@
 
 ###  🧑🏽 About me 
 
-Sou belorizontino 😀, tenho 31 anos, atualmente cursando 5° Periodo em Analise e Desnvolvimento de Sistemas na universidade UNA 👨‍🎓. Atualmente estudando a linguagem de programação **back-end em C#, .NET, Entity Framework, SQL Server.**
+Sou belorizontino 😀, tenho 31 anos, atualmente cursando 5° Período em Análise e Desnvolvimento de Sistemas na universidade UNA 👨‍🎓. Atualmente estudando back-end com as linguagens de programação **C#, .NET, Entity Framework, SQL Server. **
 
 
 
@@ -17,9 +17,10 @@ Curso Web API ASP .NET Core Essencial (.NET 6) - Udemy
 UDEMY - Banco de Dados SQL do Zero ao Avançado + Projetos Reais 2023
 
 
-👨‍💼 ***Trabalho atual:*** Atualmente trabalho como Analista de Suporte na Prefeitura de Contagem MG.
+👨‍💼 Trabalho atual: Atualmente trabalho como Analista de Suporte na Prefeitura de Contagem MG.
 
-🌴 ***No meu tempo livre:*** Assisto animes, leio mangas e jogo video game principalmente WarZone ||🤣
+🌴 No meu tempo livre: Assisto animes, leio mangás e jogo video game principalmente WarZone 2 🤣
+
 
 ___
 
