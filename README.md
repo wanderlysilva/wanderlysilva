@@ -2,7 +2,7 @@
 
 ###  🧑🏽 About me 
 
-Sou belorizontino 😀, tenho 31 anos, atualmente cursando 5° Período em Análise e Desnvolvimento de Sistemas na universidade UNA 👨‍🎓. Atualmente estudando back-end com as linguagens de programação **C#, .NET, Entity Framework, SQL Server. **
+Sou belorizontino 😀, tenho 31 anos, atualmente cursando 5° Período em Análise e Desnvolvimento de Sistemas na universidade UNA 👨‍🎓. Atualmente estudando back-end com as linguagens de programação ***C#, .NET, Entity Framework, SQL Server.*** 
 
 
 
